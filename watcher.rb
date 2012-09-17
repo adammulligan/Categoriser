@@ -6,7 +6,7 @@ require 'directory_watcher'
 require 'fileutils'
 
 CONFIG = {
-  api_key: 'sjdy5n3s8t8g5q877y9dt5ws',
+  api_key: '',
 
   dirs: {
     watch: "/Users/adam/src/categoriser/_watch/",
